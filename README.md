@@ -1,4 +1,4 @@
-# Desafio do CSS do DEVCLUB
+# Desafio do CSS do DevClub
 <p>Desafio de uma página simples estática para trabalha com HTML e CSS</p>
 
 ## Tecnologias Utilizadas
